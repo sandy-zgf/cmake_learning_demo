@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libVM.a CMakeFiles/VM.dir/src/volatageManagement.cpp.obj
+C:\mingw64\bin\ranlib.exe libVM.a

@@ -1,0 +1,6 @@
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/CMakeFiles/p2_test.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/CMakeFiles/edit_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/CMakeFiles/rebuild_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/voltageManagement/CMakeFiles/VM.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/voltageManagement/CMakeFiles/edit_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project3/build/voltageManagement/CMakeFiles/rebuild_cache.dir

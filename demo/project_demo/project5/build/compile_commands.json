@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/p5test.dir/includes_CXX.rsp -g -o CMakeFiles\\p5test.dir\\src\\charge.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project5\\src\\charge.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/src/charge.cpp"
+},
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/p5test.dir/includes_CXX.rsp -g -o CMakeFiles\\p5test.dir\\src\\main.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project5\\src\\main.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/src/main.cpp"
+},
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/position",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pst_library.dir/includes_CXX.rsp -g -o CMakeFiles\\pst_library.dir\\src\\position.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project5\\position\\src\\position.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/position/src/position.cpp"
+}
+]

@@ -1,0 +1,1 @@
+  -LD:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project6/ege19.01_all/lib/mingw64/lib  -lgraphics64 -lmsimg32 -lgdi32 -limm32 -lole32 -loleaut32 -lwinmm -lgdiplus -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

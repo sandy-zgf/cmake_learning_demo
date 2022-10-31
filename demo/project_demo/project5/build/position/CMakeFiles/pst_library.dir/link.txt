@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libpst_library.a CMakeFiles/pst_library.dir/src/position.cpp.obj
+C:\mingw64\bin\ranlib.exe libpst_library.a

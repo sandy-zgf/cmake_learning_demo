@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project6/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/age_mydemo.dir/includes_CXX.rsp -g -o CMakeFiles\\age_mydemo.dir\\src\\main.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project6\\src\\main.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project6/src/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\p4test.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\p4test.dir/objects.a @CMakeFiles\p4test.dir\objects1
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\p4test.dir/objects.a -Wl,--no-whole-archive -o p4test.exe -Wl,--out-implib,libp4test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\p4test.dir\linkLibs.rsp

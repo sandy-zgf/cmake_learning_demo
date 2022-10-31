@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/p4test.dir/includes_CXX.rsp -g -o CMakeFiles\\p4test.dir\\src\\charge.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project4\\src\\charge.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project4/src/charge.cpp"
+},
+{
+  "directory": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/p4test.dir/includes_CXX.rsp -g -o CMakeFiles\\p4test.dir\\src\\main.cpp.obj -c D:\\file_zgf\\zgffile_bilibili\\cmake_vscode\\project_demo\\project4\\src\\main.cpp",
+  "file": "D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project4/src/main.cpp"
+}
+]

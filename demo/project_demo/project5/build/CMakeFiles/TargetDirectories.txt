@@ -1,0 +1,6 @@
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/CMakeFiles/p5test.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/CMakeFiles/edit_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/CMakeFiles/rebuild_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/position/CMakeFiles/pst_library.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/position/CMakeFiles/edit_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project5/build/position/CMakeFiles/rebuild_cache.dir

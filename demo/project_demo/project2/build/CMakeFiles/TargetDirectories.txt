@@ -1,0 +1,3 @@
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project2/build/CMakeFiles/p2_test.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project2/build/CMakeFiles/edit_cache.dir
+D:/file_zgf/zgffile_bilibili/cmake_vscode/project_demo/project2/build/CMakeFiles/rebuild_cache.dir
